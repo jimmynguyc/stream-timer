@@ -8,6 +8,9 @@ CLI Timer for Stream (Text) Widget that can read from file
 # Setup
 
 ```
+$ git clone https://github.com/jimmynguyc/stream-timer
+$ cd stream-timer
+
 $ gem install activesupport
 $ chmod +x timer
 ```
