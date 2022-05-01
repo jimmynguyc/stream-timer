@@ -1,5 +1,5 @@
 # stream-timer
-CLI Timer for Stream (Text) Widget that can read from file
+CLI Timer for Stream (Text) Widgets that can read from file
 
 # Requirements
 
